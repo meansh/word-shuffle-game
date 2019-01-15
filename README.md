@@ -1,1 +1,1 @@
-This directory is mainly made out just to out put the code of word-shuffle-game.
+This directory is mainly made out just to put the code of word-shuffle-game.
